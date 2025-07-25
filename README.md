@@ -1,6 +1,6 @@
 # 🛠️ maintenance-predictive-with-ros2
 
-**ROS 2 package** for predictive maintenance in vehicles using a trained **LSTM** (or LSTM+CNN) model.  
+**ROS 2 package** for predictive maintenance in vehicles using a trained **LSTM or GRU** model.  
 The system simulates OBD data, predicts a Health Index using a Keras model, compares predicted and actual values, and visualizes their evolution in a dynamic graph.
 
 ---
